@@ -16,7 +16,7 @@ options:
                         Output directory
 ```
 
-[Developer Documentation](https://github.com/acheong08/BingImageCreator/blob/main/DOCUMENTATION.md)
+[Developer Documentation](https://github.com/DJStompZone/BingImageCreator/blob/main/DOCUMENTATION.md)
 
 
 ## Getting authentication
@@ -33,3 +33,6 @@ options:
 - expand the cookies tab
 - click on the `https://bing.com` cookie
 - copy the value from the `_U`
+
+## Giving back
+Found a problem? [Open an issue](https://github.com/DJStompZone/BingImageCreator/issues/new/choose) and let us know! If you're feeling particularly helpful and think you already know the solution, by all means please feel free to [make a pull request](https://github.com/DJStompZone/BingImageCreator/pulls) with your *tested and working* fix.
